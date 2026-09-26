@@ -3,6 +3,8 @@
 My personal portfolio showcasing projects in full-stack development,
 artificial intelligence, and the Internet of Things.
 
+🌐 **[View Live Portfolio](https://abhinav-prasad-portfolio.abhinavprasad286.chatgpt.site)**
+
 ## Features
 
 - Responsive layout for desktop and mobile
@@ -22,7 +24,6 @@ artificial intelligence, and the Internet of Things.
 ## Tech Stack
 
 HTML5 · CSS3 · JavaScript
-
 
 
 ## Contact
