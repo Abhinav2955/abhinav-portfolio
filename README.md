@@ -3,7 +3,7 @@
 My personal portfolio showcasing projects in full-stack development,
 artificial intelligence, and the Internet of Things.
 
-🌐 **[View Live Portfolio](https://abhinav-prasad-portfolio.abhinavprasad286.chatgpt.site)**
+🌐 **[View Live Portfolio](https://abhinav-portfolio-eight-chi.vercel.app/)**
 
 ## Features
 
